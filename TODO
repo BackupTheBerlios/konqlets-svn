@@ -1,0 +1,5 @@
+$ - Security    + - Feature     ! - Bug     X - Done
+
++ Integrate KIO Slave and Plugin in the same repository
++ Implement user dialog box properly and consistently
++ Clean up browser history so konq doesn't retain the javascript: url 

@@ -1,0 +1,10 @@
+[Protocol]
+exec=kio_javascript
+protocol=javascript
+input=none
+output=none
+reading=false
+writing=false
+defaultMimetype=application/x-javascript
+Description=A kioslave for javascript
+URIMode=rawuri

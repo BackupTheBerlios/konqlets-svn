@@ -1,0 +1,13 @@
+Konqlets is Konqueror Bookmarklets in Action. The project will focus on two
+issues: 1. Building a secure, proof of concept, and 2. Highlight areas in KJS
+that need upgrading to provide sufficient support.
+
+The JavaScript KIO provides DCOP communication in a way that
+executes the script in the active Konqueror window.  This allows for
+Bookmarklets to operate as advertised.
+
+If the DCOP interfaces to Konqueror are insufficient to facilitate a clean and
+secure way to interact with bookmarklets, then a plugin will be developed that
+publishes the appropriate interfaces.  The plugin will have close access to
+Konqueror's API and as such could aid in making developing a clean approach to
+bookmarklets a feasibility rather than an impossibility.

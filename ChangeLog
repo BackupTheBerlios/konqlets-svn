@@ -1,0 +1,4 @@
+2004-03-07  Jeff Pitman <symbiont@berlios.de>
+
+	* Initial import of project structure. Needs re-working to include
+both a kioslave and a konqueror plugin. See TODO.
